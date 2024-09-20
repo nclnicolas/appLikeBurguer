@@ -1,6 +1,6 @@
 {
   "expo": {
-    "scheme": "likeBurguer",
+    "scheme": "likeburguer",
     "name": "likeBurguer",
     "slug": "likeBurguer",
     "version": "1.0.0",
@@ -18,7 +18,18 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "fb3e75d0-d167-48f4-b596-3a603fc6840c"
+      }
+    },
+    "owner": "nclnicolas",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/fb3e75d0-d167-48f4-b596-3a603fc6840c"
     }
   }
 }
